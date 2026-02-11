@@ -5,12 +5,10 @@
   <title>ASHURA-INFXN</title>
   <style>
     body {
-    body {
-    background: url("https://images.unsplash.com/photo-1542751371-adc38448a05e") no-repeat center center fixed;
+        background: url("https://images.unsplash.com/photo-1542751371-adc38448a05e") no-repeat center center fixed;
     background-size: cover;
     color: white;
     text-align: center;
-}
       padding: 20px;
     }
 
@@ -41,7 +39,7 @@
 <body>
   <h1>Player: ARAFAT G8</h1>
   <h1>Player: MADROX</h1>
-  <img src="https://via.placeholder.com/150" alt="Profile Picture">
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e"alt="Profile Picture">
   
   <p>Level: 4</p>
   <p>Guild: ASHURA-INFX</p>
