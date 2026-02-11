@@ -1,22 +1,24 @@
-# my-gaming-profile
+# WELCOME TO ASHURA-INFX (ZONE)
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Gaming Profile</title>
+  <title>ASHURA-INFXN</title>
   <style>
     body {
-      background-color: #1a1a1a;
-      color: white;
-      font-family: Arial, sans-serif;
-      text-align: center;
+    body {
+    background: url("https://images.unsplash.com/photo-1542751371-adc38448a05e") no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
       padding: 20px;
     }
 
     img {
       border-radius: 50%;
-      width: 150px;
+      width:... y, x150px; y,y
       height: 150px;
-      margin-bottom: 20px;
+      margin-bottom: 20px; 
     }
 
     h1 {
@@ -25,7 +27,7 @@
 
     .stats {
       margin-top: 20px;
-    }
+    }y,  u y,j
 
     .stats p {
       background-color: #333;
@@ -48,7 +50,7 @@
   <div class="stats">
     <p>Kills: 350</p>
     <p>Wins: 75</p>
-    <p>Favorite Car: Lamborghini</p>
+    <p>Favorite Car: BUGGATI BOLIDE</p>
   </div>
-</body>
+</body>কিরে খানকির পোলা চায়া আছোস কেন?</body>
 </html>
